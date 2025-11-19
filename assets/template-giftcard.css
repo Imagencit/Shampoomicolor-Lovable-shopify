@@ -29,7 +29,7 @@ html {
 }
 
 body {
-  background-color: rgb(var(--color-base-background-1), #fff);
+  background-color: red;
   color: rgb(var(--color-base-text), rgb(33,33,33));
   font-size: 100%;
   line-height: calc(1 + 0.8 / var(--font-body-scale, 1.5));
